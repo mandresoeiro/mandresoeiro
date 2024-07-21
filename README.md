@@ -1,5 +1,6 @@
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Professional in systems development with Python/Django. Estudante em desenvolvimento de sistemas com Python/Django.  A criação de conceitos e a realização deles por meio de interfaces atraentes são o que me motiva. No mundo tecnológico que me cerca, encontro inspiração. Visite meu site oficial para obter mais informações sobre meus projetos..
+ <hr>
  It is not the programming language that defines the programmer, but rather its logic..</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
