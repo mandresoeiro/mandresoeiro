@@ -1,5 +1,5 @@
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Professional in systems development with Python/Django. I work with web development and legal portfolio solutions. Creating concepts and realizing them through interesting interfaces is what motivates me. In the technological world that surrounds me, I find inspiration. Visit my official website for more information about my projects.
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Professional in systems development with Python/Django. Estudante em desenvolvimento de sistemas com Python/Django.  A criação de conceitos e a realização deles por meio de interfaces atraentes são o que me motiva. No mundo tecnológico que me cerca, encontro inspiração. Visite meu site oficial para obter mais informações sobre meus projetos..
  It is not the programming language that defines the programmer, but rather its logic..</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
