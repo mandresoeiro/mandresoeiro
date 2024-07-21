@@ -32,7 +32,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 #### Studying in this moment:
-https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
