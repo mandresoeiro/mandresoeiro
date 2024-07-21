@@ -1,5 +1,6 @@
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> It is not the programming language that defines the programmer, but rather its logic..</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Professional in systems development with Python/Django. I work with web development and legal portfolio solutions. Creating concepts and realizing them through interesting interfaces is what motivates me. In the technological world that surrounds me, I find inspiration. Visit my official website for more information about my projects.
+ It is not the programming language that defines the programmer, but rather its logic..</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
