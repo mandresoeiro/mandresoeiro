@@ -62,7 +62,7 @@
 <a href="https://www.linkedin.com/in/mandresoeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://medium.com/@mandresoeiro" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_bla nk"></a>
  
-<a href="https://www.telegran.com/mandresoeiro" target="_blank"> <img src="http://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white">/a>
+<a href="https://www.telegran.com/mandresoeiro" target="_blank"> <img src="http://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white">/a></div>&nbsp;&nbsp;
 
 
 
