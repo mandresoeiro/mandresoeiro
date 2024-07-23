@@ -8,11 +8,6 @@
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
 
-
-
-
-
-
  
  &nbsp;
  &nbsp;
@@ -69,12 +64,13 @@
 <a href="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" target="_b</a>
 </div>&nbsp;&nbsp;
  
-## Social:
-<div>
-<a href="https://www.tiktok.com/tag/ticktock target="_blank" <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white"></a>
+## Sccial:
 
-&nbsp;
-&nbsp;
+<div> 
+<a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>&nbsp;&nbsp;
 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
