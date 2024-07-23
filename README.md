@@ -69,7 +69,8 @@
 <a href="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" target="_b</a>
 </div>&nbsp;&nbsp;
  
-
+## Social
+<a href="https://www.tiktok.com/tag/ticktock target="_blank" <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white">
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
