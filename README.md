@@ -72,6 +72,9 @@
 ## Social:
 <div>
 <a href="https://www.tiktok.com/tag/ticktock target="_blank" <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white"></a>
-</div>&nbsp;&nbsp;  
+
+&nbsp;
+&nbsp;
+
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
