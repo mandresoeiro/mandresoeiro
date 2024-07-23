@@ -50,6 +50,15 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
+#### Design:
+
+![VScode](https://https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&nbsp;
+
+
+
+
+
+
 &nbsp;
 &nbsp;
 
@@ -61,9 +70,6 @@
 <a href = "mailto:contato.mandre.soeiro@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mandresoeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://medium.com/@mandresoeiro" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_bla nk"></a>
- 
-
-https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white
 
 
 
