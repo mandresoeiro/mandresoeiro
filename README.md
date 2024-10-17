@@ -45,9 +45,15 @@
 ![Mysql](<img alt="Static Badge" src="https://img.shields.io/badge/mysql">)&nbsp;
 
 
+#### Libraries and Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+
 
 #### Databases:
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
 
 #### Workstation Tools:
 
