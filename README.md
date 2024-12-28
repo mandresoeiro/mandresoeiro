@@ -18,6 +18,7 @@ Hi There! 👋
 <div align="center">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" alt="GitHub Streak Stats" />
 
+<div align="left">
 ## 🛠️ Habilidades
 
 ### Stack Principal:
