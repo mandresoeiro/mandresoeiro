@@ -55,7 +55,7 @@ Hi There! 👋
 <div> 
   <a href="https://www.instagram.com/mandresoeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:contato.mandre.soeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  < a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></a>
+  < a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"target="_blank">
 </div>
 
 Vamos construir juntos o futuro da web! 🚀
