@@ -1,4 +1,21 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+Hi There! 👋
+
+My name is Marcio Soeiro
+
+(django | Angular | AWS | React JS | Typescript | docker | Javascript | HTML | CSS ) 🚀
+
+
+🌟 Design Gráfico em transição para Engenharia de Software
+💻 Apaixonado por desenvolvimento web e criação de experiências digitais incríveis
+
+🌐 Sobre mim
+
+🎨 Experiência em Design Gráfico: Anos de atuação na área criativa, com habilidades em design visual e branding.
+💡 Transição de Carreira: Agora, aplicando minha experiência criativa para resolver problemas complexos no mundo da tecnologia.
+🔧 Foco em Desenvolvimento Web: Desenvolvendo aplicações web robustas e escaláveis com tecnologias como Django, React e Next.js.
+🌱 Sempre aprendendo: Atualmente, aprofundando meu conhecimento em DevOps e ferramentas como Docker e CI/CD.
+
+
 
 <p align="center">
   <b>👋 Bem-vindo ao meu perfil!</b><br><br>
