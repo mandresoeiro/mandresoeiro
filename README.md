@@ -1,6 +1,6 @@
 Hi There! 👋
 
-My name is Marcio Soeiro
+<h1> My name is Marcio Soeiro</h1>
 
 (django | Angular | AWS | React JS | Typescript | docker | Javascript | HTML | CSS ) 🚀
 
@@ -16,20 +16,6 @@ My name is Marcio Soeiro
 🌱 Sempre aprendendo: Atualmente, aprofundando meu conhecimento em DevOps e ferramentas como Docker e CI/CD.
 
 
-
-<p align="center">
-  <b>👋 Bem-vindo ao meu perfil!</b><br><br>
-  Sou apaixonado por resolver grandes desafios usando tecnologia. <br>
-  Estudante em desenvolvimento de sistemas com Python/Django, adoro transformar ideias em realidade por meio de interfaces atraentes e funcionais.<br>
-  A inspiração vem do mundo tecnológico que me cerca. Explore meus projetos no meu <a href="https://seusite.com">site oficial</a>.
-</p>
-
-<p align="center">
-  <i>"Não é a linguagem de programação que define o programador, mas sim sua lógica."</i>
-</p>
-
----
-
 <div align="center">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" alt="GitHub Streak Stats" />
   <img width="40%" src="https://github-readme-stats-git-main-mandresoeiro.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
@@ -44,8 +30,6 @@ My name is Marcio Soeiro
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 ### Stack Secundária:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
@@ -89,4 +73,5 @@ My name is Marcio Soeiro
   <a href="https://medium.com/@mandresoeiro" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+Vamos construir juntos o futuro da web! 🚀
+
