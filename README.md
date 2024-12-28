@@ -15,12 +15,6 @@ Hi There! 👋
 🔧 Foco em Desenvolvimento Web: Desenvolvendo aplicações web robustas e escaláveis com tecnologias como Django, React e Next.js.<br>
 🌱 Sempre aprendendo: Atualmente, aprofundando meu conhecimento em DevOps e ferramentas como Docker e CI/CD.<br><br>
 
-
-<div align="center">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" alt="GitHub Streak Stats" />
-  <img width="40%" src="https://github-readme-stats-git-main-mandresoeiro.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</div>
-
 ---
 
 ## 🛠️ Habilidades
