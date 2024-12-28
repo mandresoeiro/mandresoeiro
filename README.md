@@ -13,7 +13,8 @@ Hi There! 👋
 🎨 Experiência em Design Gráfico: Anos de atuação na área criativa, com habilidades em design visual e branding.<br>
 💡 Transição de Carreira: Agora, aplicando minha experiência criativa para resolver problemas complexos no mundo da tecnologia.<br>
 🔧 Foco em Desenvolvimento Web: Desenvolvendo aplicações web robustas e escaláveis com tecnologias como Django, React e Next.js.<br>
-🌱 Sempre aprendendo: Atualmente, aprofundando meu conhecimento em DevOps e ferramentas como Docker e CI/CD.<br>
+🌱 Sempre aprendendo: Atualmente, aprofundando meu conhecimento em DevOps e ferramentas como Docker e CI/CD.<br><br>
+
 
 <div align="center">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" alt="GitHub Streak Stats" />
