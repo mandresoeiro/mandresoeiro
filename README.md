@@ -51,12 +51,8 @@ Hi There! 👋
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 
-## 📞 Contato:
-<div> 
-  <a href="https://www.instagram.com/mandresoeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:contato.mandre.soeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  < a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"target="_blank">
-</div>
+📞 Contato:
+<div> <a href="https://www.instagram.com/mandresoeiro" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> <a href="mailto:contato.mandre.soeiro@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://www.linkedin.com/in/seu-username" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </div>
 
 Vamos construir juntos o futuro da web! 🚀
 
