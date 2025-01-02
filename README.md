@@ -16,7 +16,9 @@ Hi There! 👋
 🌱 Sempre aprendendo: Atualmente, aprofundando meu conhecimento em DevOps e ferramentas como Docker e CI/CD.<br><br>
 
 <div align="center">
+  <h2>🔥 GitHub Streak Stats 🔥</h2>
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" alt="GitHub Streak Stats" />
+</div>
 
 <div align="left">
 
