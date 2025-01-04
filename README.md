@@ -11,9 +11,9 @@
     <li>🎨 <strong>Design Gráfico em transição para Engenharia de Software</strong></li>
     <li>💻 Apaixonado por desenvolvimento web e criação de experiências digitais incríveis</li>
 <li>  <strong>🎨 Experiência em Design Gráfico:</strong> Anos de atuação na área criativa, com habilidades em design visual e branding.<br></li>  
-    <strong>💡 Transição de Carreira:</strong> Agora, aplicando minha experiência criativa para resolver problemas complexos no mundo da tecnologia.<br>
-    <strong>🔧 Foco em Desenvolvimento Web:</strong> Desenvolvendo aplicações web robustas e escaláveis com tecnologias como Django, React e Next.js.<br>
-    <strong>🌱 Sempre aprendendo:</strong> Atualmente, aprofundando meu conhecimento em DevOps e ferramentas como Docker e CI/CD.
+ <li>    <strong>💡 Transição de Carreira:</strong> Agora, aplicando minha experiência criativa para resolver problemas complexos no mundo da tecnologia.<br></li>  
+ <li>    <strong>🔧 Foco em Desenvolvimento Web:</strong> Desenvolvendo aplicações web robustas e escaláveis com tecnologias como Django, React e Next.js.<br></li>  
+ <li>    <strong>🌱 Sempre aprendendo:</strong> Atualmente, aprofundando meu conhecimento em DevOps e ferramentas como Docker e CI/CD.</li>  
    </ul>
 </div>
 
