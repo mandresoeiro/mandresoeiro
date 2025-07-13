@@ -12,6 +12,7 @@
 | ⚡ [FlashDom](https://github.com/mandresoeiro/flashdom) | Jogo educativo de flashcards com gamificação |
 | 🗂️ [Planner](https://github.com/mandresoeiro/planner) | Agenda interativa com Pomodoro e dashboards |
 | 🧾 [Zettelkasten ENEM](https://github.com/mandresoeiro/zettelkasten) | Sistema de anotações conectadas para estudos |
+| 🌿 [COP-Verde](https://github.com/mandresoeiro/COP-Verde--) | Plataforma sustentável para a COP30 com mapas, roteiros e IA |
 
 ---
 
@@ -31,16 +32,17 @@
 ### 🤖 Projetos com IA
 
 - [DevilLint GPT](https://chatgpt.com/g/g-68718d986b2c8191a0f20f5c078c38ce-ola-dev-soeiro-sou-o-devillinttm-seu-mentor): Revisor de código com olhar de produção
-- Sistemas com integração OpenAI + LangChain
-- Automação com n8n, Notion API, ChatGPT e GCal
+- Integrações com OpenAI e LangChain para roteiros turísticos e chats inteligentes
+- Automação com n8n, Notion API, Google Calendar e ChatGPT
 
 ---
 
-### 📚 Em aprendizado contínuo:
+### 📚 Em aprendizado contínuo
+
 - Arquitetura limpa e escalável
 - CI/CD com GitHub Actions
-- Padrões de projeto com DevilLint
-- FastAPI, DDD e TDD avançado
+- Padrões de projeto e engenharia com DevilLint
+- FastAPI, Domain-Driven Design e TDD avançado
 
 ---
 
