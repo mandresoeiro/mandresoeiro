@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
   
   <h1>👨‍💻 Marcio Soeiro</h1>
-  <p><strong>Full Stack Developer | AI Enthusiast | Software Architect</strong></p>
+  <p><strong>Full Stack Developer | AI Solutions | Software Architecture</strong></p>
 
   <a href="https://github.com/mandresoeiro">
     <img src="https://img.shields.io/github/followers/mandresoeiro?label=Follow&style=social"  alt="GitHub Followers">
@@ -18,23 +18,23 @@
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🚀 Projetos de Elite
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>✍️ Enem-Corrections</h3>
-      <p>Sistema inteligente focado na análise e correção de redações seguindo os critérios oficiais do ENEM.</p>
+      <h3>✍️ <a href="https://github.com/mandresoeiro/enem-corrections">Enem-Corrections</a></h3>
+      <p>Sistema inteligente focado na análise e correção de redações seguindo os critérios oficiais do ENEM com IA.</p>
       <img src="https://img.shields.io/badge/Status-Main_Project-brightgreen?style=for-the-badge" height="20">
       <br/><br/>
       <code>Python</code> <code>NLP</code> <code>FastAPI</code>
     </td>
     <td width="50%" valign="top">
-      <h3>⬢ Hexagono-Regular</h3>
-      <p>Biblioteca ou engine focada em geometria computacional aplicada a grids hexagonais e lógica espacial.</p>
-      <img src="https://img.shields.io/badge/Status-Core_Dev-blue?style=for-the-badge" height="20">
+      <h3>⬢ <a href="https://hexagono-regular.vercel.app/">Hexagono-Regular</a></h3>
+      <p>Visualizador e engine para grids hexagonais. Exploração de geometria computacional e renderização eficiente.</p>
+      <img src="https://img.shields.io/badge/Status-Live_Demo-blue?style=for-the-badge" height="20">
       <br/><br/>
-      <code>TypeScript</code> <code>Algorithms</code> <code>Math</code>
+      <code>TypeScript</code> <code>React</code> <code>Math</code>
     </td>
   </tr>
 </table>
