@@ -12,7 +12,7 @@
   </a>
 
   <p align="center">
-    <i>Transformando café e curiosidade em soluções de alto impacto.</i>
+    <i>Transformando café e curiosidade em soluções de alto impacto na <b><a href="https://github.com/Soeiro-Engineering">Soeiro Engineering</a></b>.</i>
   </p>
 </div>
 
@@ -23,18 +23,34 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/Soeiro-Engineering/metropolis-store">Metropolis-Store</a></h3>
+      <p>Plataforma híbrida de e-commerce e tracking de cinema (estilo Letterboxd) integrada à API do TMDB.</p>
+      <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" height="20">
+      <br/><br/>
+      <code>Next.js</code> <code>NestJS</code> <code>Prisma</code> <code>TMDB API</code>
+    </td>
+    <td width="50%" valign="top">
       <h3>✍️ <a href="https://github.com/mandresoeiro/enem-corrections">Enem-Corrections</a></h3>
       <p>Sistema inteligente focado na análise e correção de redações seguindo os critérios oficiais do ENEM com IA.</p>
       <img src="https://img.shields.io/badge/Status-Main_Project-brightgreen?style=for-the-badge" height="20">
       <br/><br/>
       <code>Python</code> <code>NLP</code> <code>FastAPI</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>⬢ <a href="https://hexagono-regular.vercel.app/">Hexagono-Regular</a></h3>
       <p>Visualizador e engine para grids hexagonais. Exploração de geometria computacional e renderização eficiente.</p>
       <img src="https://img.shields.io/badge/Status-Live_Demo-blue?style=for-the-badge" height="20">
       <br/><br/>
       <code>TypeScript</code> <code>React</code> <code>Math</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 <a href="https://github.com/Soeiro-Engineering">Soeiro Engineering</a></h3>
+      <p>Minha organização focada em laboratórios de arquitetura, DDD e padrões de projeto escaláveis.</p>
+      <img src="https://img.shields.io/badge/Role-Founder-purple?style=for-the-badge" height="20">
+      <br/><br/>
+      <code>Clean Arch</code> <code>DevOps</code> <code>Monorepo</code>
     </td>
   </tr>
 </table>
@@ -56,10 +72,10 @@
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Back-End** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| **Front-End** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Back-End** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) |
+| **Front-End** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![TS](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) |
 | **IA & Automação** | ![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=chainlink) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai) ![n8n](https://img.shields.io/badge/-n8n-EF6C00?logo=n8n) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) |
 
 </div>
 
@@ -70,7 +86,7 @@
 Atualmente mergulhando fundo em:
 - 🧪 **TDD & Pytest**: Elevando a confiabilidade do código ao nível máximo.
 - 📐 **Domain-Driven Design (DDD)**: Modelagem de software para problemas complexos.
-- ⚡ **FastAPI**: Performance e tipagem moderna no back-end.
+- ⚡ **Full Stack Integration**: Unindo APIs robustas a experiências de usuário fluidas.
 
 ---
 
