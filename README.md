@@ -12,9 +12,36 @@
   </a>
 
   <p align="center">
-    <i>Transformando café e curiosidade em soluções de alto impacto na <b><a href="https://github.com/Soeiro-Engineering">Soeiro Engineering</a></b>.</i>
+    <i>Transformando café e curiosidade em soluções de alto impacto.</i>
   </p>
+
+  <h3>🏢 Meu Ecossistema de Engenharia</h3>
+  
+  <table align="center">
+    <tr>
+      <td align="center" width="200">
+        <a href="https://github.com/Soeiro-Engineering">
+          <img src="https://img.shields.io/badge/Soeiro--Engineering-🏗️-gray?style=for-the-badge&labelColor=333" /><br>
+          <sub><b>Sistemas Robustos</b></sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://github.com/soeirotech-evolution">
+          <img src="https://img.shields.io/badge/Soeiro--Evolution-🧬-green?style=for-the-badge&labelColor=333" /><br>
+          <sub><b>Melhoria Contínua</b></sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://github.com/soeirotech-lab">
+          <img src="https://img.shields.io/badge/Soeiro--Lab-🧪-blue?style=for-the-badge&labelColor=333" /><br>
+          <sub><b>R&D e Experimentos</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+---
 
 ---
 
